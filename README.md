@@ -58,28 +58,6 @@ export class NotesManager {
 - TypeScript
 - React Hooks
 
-## ⚙️ Kurulum
-
-1. Projeyi klonlayın:
-\`\`\`bash
-git clone [repo-url]
-\`\`\`
-
-2. Proje klasörüne gidin:
-\`\`\`bash
-cd singleton-notes-app-expo
-\`\`\`
-
-3. Bağımlılıkları yükleyin:
-\`\`\`bash
-npm install
-\`\`\`
-
-4. Uygulamayı başlatın:
-\`\`\`bash
-npm start
-\`\`\`
-
 ## 📂 Proje Yapısı
 
 ```
